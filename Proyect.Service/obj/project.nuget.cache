@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CU+jji+VFFQ=",
+  "success": true,
+  "projectFilePath": "E:\\FANIRI\\Proyect\\Proyect\\Proyect.Service\\Proyect.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

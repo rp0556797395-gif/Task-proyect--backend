@@ -1,0 +1,63 @@
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.deps.json
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.pdb
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.AssemblyInfoInputs.cache
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.AssemblyInfo.cs
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.sourcelink.json
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\refint\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.pdb
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\ref\Proyect.Core.dll
+D:\רותי פנירי\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.deps.json
+D:\רותי פנירי\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.dll
+D:\רותי פנירי\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.pdb
+D:\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.AssemblyInfoInputs.cache
+D:\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.AssemblyInfo.cs
+D:\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.csproj.CoreCompileInputs.cache
+D:\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.sourcelink.json
+D:\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.dll
+D:\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\refint\Proyect.Core.dll
+D:\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.pdb
+D:\רותי פנירי\Proyect\Proyect.CORE\obj\Debug\net8.0\ref\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.deps.json
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.pdb
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.AssemblyInfoInputs.cache
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.AssemblyInfo.cs
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.sourcelink.json
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\refint\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.pdb
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\ref\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.csproj.AssemblyReference.cache
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.deps.json
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.pdb
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.csproj.AssemblyReference.cache
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.AssemblyInfoInputs.cache
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.AssemblyInfo.cs
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\refint\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.pdb
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\ref\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.sourcelink.json
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.deps.json
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.dll
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\bin\Debug\net8.0\Proyect.Core.pdb
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.csproj.AssemblyReference.cache
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.AssemblyInfoInputs.cache
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.AssemblyInfo.cs
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.csproj.CoreCompileInputs.cache
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.sourcelink.json
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.dll
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\refint\Proyect.Core.dll
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\Proyect.Core.pdb
+E:\FANIRI\Proyect\Proyect\Proyect.CORE\obj\Debug\net8.0\ref\Proyect.Core.dll

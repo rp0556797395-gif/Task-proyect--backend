@@ -1,0 +1,80 @@
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.deps.json
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.pdb
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Core.pdb
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.csproj.AssemblyReference.cache
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.AssemblyInfoInputs.cache
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.AssemblyInfo.cs
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.sourcelink.json
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect..02D80F4A.Up2Date
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\refint\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.pdb
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\ref\Proyect.Service.dll
+D:\רותי פנירי\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.deps.json
+D:\רותי פנירי\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.dll
+D:\רותי פנירי\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.pdb
+D:\רותי פנירי\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Core.dll
+D:\רותי פנירי\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Core.pdb
+D:\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.csproj.AssemblyReference.cache
+D:\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.AssemblyInfoInputs.cache
+D:\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.AssemblyInfo.cs
+D:\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.csproj.CoreCompileInputs.cache
+D:\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.sourcelink.json
+D:\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect..02D80F4A.Up2Date
+D:\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.dll
+D:\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\refint\Proyect.Service.dll
+D:\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.pdb
+D:\רותי פנירי\Proyect\Proyect.Service\obj\Debug\net8.0\ref\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.deps.json
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.pdb
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Core.pdb
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.csproj.AssemblyReference.cache
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.AssemblyInfoInputs.cache
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.AssemblyInfo.cs
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.sourcelink.json
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect..02D80F4A.Up2Date
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\refint\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.pdb
+T:\Group B\NetCore\רותי פנירי\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\ref\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.deps.json
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.pdb
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Core.dll
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Core.pdb
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.csproj.AssemblyReference.cache
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.AssemblyInfoInputs.cache
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.AssemblyInfo.cs
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect..02D80F4A.Up2Date
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\refint\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.pdb
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\ref\Proyect.Service.dll
+T:\Group B\NetCore\רותי פנירי\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.sourcelink.json
+E:\FANIRI\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.deps.json
+E:\FANIRI\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.dll
+E:\FANIRI\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Service.pdb
+E:\FANIRI\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Core.dll
+E:\FANIRI\Proyect\Proyect\Proyect.Service\bin\Debug\net8.0\Proyect.Core.pdb
+E:\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.csproj.AssemblyReference.cache
+E:\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.AssemblyInfoInputs.cache
+E:\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.AssemblyInfo.cs
+E:\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.csproj.CoreCompileInputs.cache
+E:\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.sourcelink.json
+E:\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect..02D80F4A.Up2Date
+E:\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.dll
+E:\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\refint\Proyect.Service.dll
+E:\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\Proyect.Service.pdb
+E:\FANIRI\Proyect\Proyect\Proyect.Service\obj\Debug\net8.0\ref\Proyect.Service.dll
